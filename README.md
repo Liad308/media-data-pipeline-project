@@ -1,7 +1,7 @@
 # Media Data Analytics Pipeline
 
 A distributed data analysis pipeline for understanding TV viewing behavior based on demographic clustering.  
-Built using PySpark, MLlib, and Kafka as part of a Technion data engineering course project.
+Built using PySpark, MLlib, and Kafka as part of a Distributed Databases Management course project at the Technion.
 
 ## 🔍 Project Overview
 
